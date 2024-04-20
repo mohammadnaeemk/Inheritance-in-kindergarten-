@@ -1,0 +1,3 @@
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamrin4/tamrin2/Inheritance-in-kindergarten-/cmake-build-debug/CMakeFiles/Inheritance_in_kindergarten_.dir
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamrin4/tamrin2/Inheritance-in-kindergarten-/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamrin4/tamrin2/Inheritance-in-kindergarten-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
